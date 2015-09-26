@@ -1,4 +1,3 @@
-<code>
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -28,4 +27,3 @@ public class Solution {
         dfs(root.right, depth);
     }
 }
-</code>
